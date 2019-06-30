@@ -22,7 +22,7 @@ public static void main(String[] args) throws FacebookException {
  // Generate facebook instance.
 Facebook facebook = new FacebookFactory().getInstance();
 // Use default values for oauth app id.
-facebook.setOAuthAppId("cintafahrul40@yahoo.co.id", "fahrul12");
+facebook.setOAuthAppId("cintafahrul@yahoo.co.id", "password");
 // Get an access token from: 
 // https://developers.facebook.com/tools/explorer
 // Copy and paste it below.
